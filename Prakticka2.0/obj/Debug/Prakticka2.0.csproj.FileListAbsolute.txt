@@ -1,0 +1,153 @@
+C:\Users\WSR\source\repos\Prakticka2.0\bin\Debug\Prakticka2.0.exe.config
+C:\Users\WSR\source\repos\Prakticka2.0\bin\Debug\Prakticka2.0.exe
+C:\Users\WSR\source\repos\Prakticka2.0\bin\Debug\Prakticka2.0.pdb
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0.csprojAssemblyReference.cache
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\MainWindow.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\App.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.cache
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.lref
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\MainWindow.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0.g.resources
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2._0.Properties.Resources.resources
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.GenerateResource.cache
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.CoreCompileInputs.cache
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0.exe
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Prakticka2.0.pdb
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Window1.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Window1.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\ProverkaMashin.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\ProverkaMashin.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\ProsmotrData.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\ProsmotrData.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Cheni.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Information.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Proverka.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\ViborMashini.g.cs
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Cheni.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Information.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\Proverka.baml
+C:\Users\WSR\source\repos\Prakticka2.0\obj\Debug\ViborMashini.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\bin\Debug\Prakticka2.0.exe.config
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\bin\Debug\Prakticka2.0.exe
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\bin\Debug\Prakticka2.0.pdb
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.csprojAssemblyReference.cache
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Cheni.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Information.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\MainWindow.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\ProsmotrData.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Proverka.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\ProverkaMashin.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\ViborMashini.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Window1.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\App.g.cs
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.cache
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.lref
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Cheni.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Information.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\MainWindow.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\ProsmotrData.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Proverka.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\ProverkaMashin.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\ViborMashini.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Window1.baml
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.g.resources
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2._0.Properties.Resources.resources
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.GenerateResource.cache
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.CoreCompileInputs.cache
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.exe
+D:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\1\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.pdb
+C:\Users\79372\Desktop\Программа\Prakticka2.0\bin\Debug\Prakticka2.0.exe.config
+C:\Users\79372\Desktop\Программа\Prakticka2.0\bin\Debug\Prakticka2.0.exe
+C:\Users\79372\Desktop\Программа\Prakticka2.0\bin\Debug\Prakticka2.0.pdb
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.csprojAssemblyReference.cache
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Cheni.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Information.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\MainWindow.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\ProsmotrData.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Proverka.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\ProverkaMashin.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\ViborMashini.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Window1.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\App.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.cache
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.lref
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Cheni.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Information.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\MainWindow.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\ProsmotrData.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Proverka.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\ProverkaMashin.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\ViborMashini.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Window1.baml
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.g.resources
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2._0.Properties.Resources.resources
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.GenerateResource.cache
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.CoreCompileInputs.cache
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.exe
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Prakticka2.0.pdb
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Registraciya.g.cs
+C:\Users\79372\Desktop\Программа\Prakticka2.0\obj\Debug\Registraciya.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\bin\Debug\Prakticka2.0.exe.config
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\bin\Debug\Prakticka2.0.exe
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\bin\Debug\Prakticka2.0.pdb
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.csprojAssemblyReference.cache
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Cheni.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Information.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\MainWindow.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\ProsmotrData.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Proverka.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\ProverkaMashin.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Registraciya.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\ViborMashini.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Window1.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\App.g.cs
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.cache
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.lref
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Cheni.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Information.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\MainWindow.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\ProsmotrData.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Proverka.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\ProverkaMashin.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Registraciya.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\ViborMashini.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Window1.baml
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.g.resources
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2._0.Properties.Resources.resources
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.GenerateResource.cache
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.CoreCompileInputs.cache
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.exe
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.pdb
+C:\Users\79372\Desktop\Программа — копия\Prakticka2.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\bin\Debug\Prakticka2.0.exe.config
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\bin\Debug\Prakticka2.0.exe
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\bin\Debug\Prakticka2.0.pdb
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.csprojAssemblyReference.cache
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Cheni.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Information.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\MainWindow.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\ProsmotrData.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Proverka.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\ProverkaMashin.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Registraciya.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\ViborMashini.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Window1.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\App.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.cache
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0_MarkupCompile.lref
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Cheni.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Information.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\MainWindow.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\ProsmotrData.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Proverka.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\ProverkaMashin.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Registraciya.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\ViborMashini.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Window1.baml
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.g.resources
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2._0.Properties.Resources.resources
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.GenerateResource.cache
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.csproj.CoreCompileInputs.cache
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.exe
+F:\УЧЕБНАЯ ПРАКТИКА!!!!!!!!!!!!!\Программа — копия\Prakticka2.0\obj\Debug\Prakticka2.0.pdb

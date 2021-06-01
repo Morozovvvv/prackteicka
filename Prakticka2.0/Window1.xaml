@@ -1,0 +1,19 @@
+﻿<Window x:Name="menuWindow" x:Class="Prakticka2._0.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prakticka2._0"
+        mc:Ignorable="d"
+        Title="Window1" Height="130.673" Width="403.669" ResizeMode="NoResize" AllowsTransparency="True" WindowStyle="None">
+    <Grid Background="#FFB363BF" Margin="-10,-14,0,0">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="9" VerticalAlignment="Top" Width="414" Background="#FF31D474" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+            <Image Margin="-1,0,-1,-136" Source="maxresdefault.jpg" Stretch="Fill" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+        </Border>
+        <Button Content="Просмотр данных пользователя" HorizontalAlignment="Left" Margin="23,14,0,0" VerticalAlignment="Top" Width="337" Height="36" FontSize="20" Click="Button_Click_2" Background="White"/>
+        <Button Content="Проверка свободных машин" HorizontalAlignment="Left" Margin="23,59,0,0" VerticalAlignment="Top" Width="337" Height="35" FontSize="20" Click="Button_Click_1" Background="White"/>
+        <Button Content="Просмотр цен на услуги" HorizontalAlignment="Left" Margin="23,104,0,0" VerticalAlignment="Top" Width="337" Height="35" FontSize="20" Click="Button_Click_3" Background="White"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="365,121,0,0" VerticalAlignment="Top" Width="49" Height="18" FontSize="10" Click="Button_Click" Background="White"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Prakticka2._0.Cheni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prakticka2._0"
+        mc:Ignorable="d"
+        Title="Cheni" Height="277.661" Width="365.608" Loaded="Window_Loaded_1" WindowStyle="None" AllowsTransparency="True">
+    <Window.Resources>
+        <local:loginDataSet x:Key="loginDataSet"/>
+        <CollectionViewSource x:Key="chenaViewSource" Source="{Binding Chena, Source={StaticResource loginDataSet}}"/>
+    </Window.Resources>
+    <Grid HorizontalAlignment="Left" Height="278" VerticalAlignment="Top" Width="837" DataContext="{StaticResource chenaViewSource}" Margin="0,0,-471,0">
+        <DataGrid x:Name="chenaDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="0,10,470,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="mashinaColumn" Binding="{Binding Mashina}" Header="Mashina" Width="100"/>
+                <DataGridTextColumn x:Name="chenaColumn" Binding="{Binding Chena}" Header="Chena" Width="100"/>
+                <DataGridTextColumn x:Name="reisColumn" Binding="{Binding Reis}" Header="Reis" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="←" HorizontalAlignment="Left" Margin="311,9,0,0" VerticalAlignment="Top" Width="56" Click="Button_Click_1" Height="24" FontSize="16" Background="White" MouseLeftButtonDown="Button_MouseLeftButtonDown"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="10" VerticalAlignment="Top" Width="367" Background="#FF31D474" MouseLeftButtonDown="Border_MouseLeftButtonDown"/>
+    </Grid>
+</Window>
